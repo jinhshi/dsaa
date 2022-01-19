@@ -1,0 +1,9 @@
+.metals/
+.bloop/
+.ammonite/
+metals.sbt
+target/
+project/
+.scalafmt.conf
+.git/
+.vscode/
